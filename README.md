@@ -1,0 +1,2 @@
+# HEMATOVISION-BLOOD-CELL-CLASSIFICATION-USING-TRANSFER-LEARNING
+Hematovision Blood Cell Classification Using Transfer Learning is a machine learning-based project that utilizes transfer learning techniques to classify blood cells accurately. This Project aims to develop a robust and efficient model for blood cell classification, leveraging pre-trained models and fine-tuning them for hematological applicaion.
